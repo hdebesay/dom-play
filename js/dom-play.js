@@ -37,11 +37,11 @@ function highlightActor(actor){
     
 }
 
-function highlight(el){
-    if( el.style.backgroundColor == "yellow"){
-        el.style.backgroundColor = 'white';
+// function highlight(el){
+//     if( el.style.backgroundColor == "yellow"){
+//         el.style.backgroundColor = 'white';
 
-    }else{
-        el.style.backgroundColor = 'yellow';
-    }
-}
+//     }else{
+//         el.style.backgroundColor = 'yellow';
+//     }
+// }
